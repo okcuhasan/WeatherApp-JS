@@ -8,6 +8,7 @@ A simple weather application built with **HTML**, **CSS**, and **JavaScript**. I
 - CSS
 - JavaScript 
 - OpenWeatherMap API
+- FETCH API
 
 ---
 
